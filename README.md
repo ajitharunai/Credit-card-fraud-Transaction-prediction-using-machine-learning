@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection Web App
-![My level of Imagery, lol](https://www.canva.com/design/DAFhBWa7MEE/5OADcTzJFTkaoaCbf3Q8Ww/edit?utm_content=DAFhBWa7MEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![My level of Imagery, lol](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4_Cc_Gl_vweFHF7kQDb8A5pH6FobHmRj4UfyBGc7ZKQC6ztO3nEK9twCj4wfyqBRgwRKNfBneAenMNAxZ1ri0pobkZDlUdzrQv67Zv4kIrQ3y5RHPqkQcuR3ePCaq9mHg6YaKs0mcR2BGJEYulkFzT6xfGrhym9-9HwexX1Ov6sfsVH186wZyT1ZY/s16000/2%20Hours%20online%20workshop%20(1).png)
 
 
 This repository contains the procedure we followed to deploy our web app of Credit Card Fraud detection on Heroku.
@@ -56,15 +56,12 @@ Testing data for a Valid transaction can be found in the ***"valid_values.csv"**
 
 ## Web App
 
-Our Credit Card Fraud Detection web app is available at: [Credit Card Fraud Detection](https://www.google.com/url?q=https://credit-card-fraud-detect-ion.herokuapp.com/&sa=D&source=hangouts&ust=1599890506172000&usg=AFQjCNFMw5kRvTCqhn-xm35d7hSq0sooYQ)
+Our Credit Card Fraud Detection web app is available at: [Credit Card Fraud Detection](#)
 
 The notebook used to train the model for this web app can be found [here](https://www.kaggle.com/hungrywolf/different-methods).
 
 To Contact Us:
 - Gajendra Saraswat
-    - [Kaggle](https://www.kaggle.com/sarques)    
-    - [LinkedIn](https://www.linkedin.com/in/gajendra-saraswat-221102165/)
-    - [Twitter](https://twitter.com/Saarques)
-- Ravikant Vijayvargiya
-    - [Kaggle](https://www.kaggle.com/hungrywolf)
-    - [LinkedIn](https://www.linkedin.com/in/ravikant-vijayvargiya/)
+     
+    - [LinkedIn](https://www.linkedin.com/in/ajitharunai/)
+   
