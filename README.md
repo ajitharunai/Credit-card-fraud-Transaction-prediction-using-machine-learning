@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection Web App
-![My level of Imagery, lol](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fai-journey.com%2Fwp-content%2Fuploads%2F2019%2F06%2Ffraud-EMV-chip-credit-card.jpg&f=1&nofb=1)
+![My level of Imagery, lol](https://www.canva.com/design/DAFhBWa7MEE/5OADcTzJFTkaoaCbf3Q8Ww/edit?utm_content=DAFhBWa7MEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 This repository contains the procedure we followed to deploy our web app of Credit Card Fraud detection on Heroku.
