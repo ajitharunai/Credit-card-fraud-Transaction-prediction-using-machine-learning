@@ -61,7 +61,7 @@ Our Credit Card Fraud Detection web app is available at: [Credit Card Fraud Dete
 The notebook used to train the model for this web app can be found [here](https://www.kaggle.com/hungrywolf/different-methods).
 
 To Contact Us:
-- Gajendra Saraswat
+- Ajith Kumar Murugan
      
     - [LinkedIn](https://www.linkedin.com/in/ajitharunai/)
    
